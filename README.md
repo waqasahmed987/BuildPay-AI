@@ -1,2 +1,2 @@
 # BuildPay-AI
-A simple AI-Powered Construction Inspection, Approval &amp; IPC Management Platform
+AI-Assisted Construction Payment & Work Approval Platform
